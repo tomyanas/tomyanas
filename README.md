@@ -20,7 +20,8 @@ const tomyanas = {
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
+<img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
